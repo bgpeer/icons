@@ -1,2 +1,2 @@
-# icons
-Icon assets for Mihomo/Clash proxy groups
+# icon图标
+主要用于Mihomo内核图标
